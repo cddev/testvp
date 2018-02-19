@@ -19,6 +19,7 @@ marvel-app/
 	param.js
 ```
 
-*in param.js private_key is mandatory
-*packages used
-	-reactjs-popup
+## Setup
+- in param.js private_key is mandatory
+## packages used
+- reactjs-popup
